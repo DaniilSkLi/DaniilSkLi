@@ -1,3 +1,12 @@
+# I'm here now: [Codeberg](https://codeberg.org/DaniilSkLi)
+## I advise you and van to switch from the proprietary, in the hands of Microsoft project GitHub to an open independent project, such as Codeberg that I chose, Notabug, Gitea and others :)
+
+---
+
+
+
+### My very old README :P
+
 - 👋 Hi, I’m @DaniilSkLi
 - 👀 I'm interested in creating everything of my own :) Be it a CMS system or a browser.
 - 🌱 I’m currently learning VUE.js more deeply, I only know it superficially. 
