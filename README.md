@@ -1,9 +1,7 @@
-# I'm here now: [Codeberg](https://codeberg.org/DaniilSkLi)
-## I advise you and van to switch from the proprietary, in the hands of Microsoft project GitHub to an open independent project, such as Codeberg that I chose, Notabug, Gitea and others :)
+My Codeberg: [Codeberg](https://codeberg.org/DaniilSkLi)  
+> I advise you to switch from the proprietary, in the hands of Microsoft project GitHub to an open independent project, such as Codeberg that I chose, Notabug, Gitea and others.
 
 ---
-
-
 
 ### My very old README :P
 
