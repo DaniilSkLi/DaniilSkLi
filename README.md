@@ -13,6 +13,6 @@ This GitHub profile serves as an archive of my early projects.
 
 📫 **How to reach me:**
 - **Telegram:** @DaniilSkLi
-- **LinkedIn:** [My Profile](https://www.linkedin.com/in/daniil-skrepchenko)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/daniil-skrypchenko)
 
 ---
